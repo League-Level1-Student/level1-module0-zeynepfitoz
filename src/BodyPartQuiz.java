@@ -19,9 +19,9 @@ public class BodyPartQuiz {
 	// or if you prefer, get celebrity photos from the Internet, place them in the default
 	// package, and change the names below.
 	
-	String firstImage = "src/arnold.jpeg";
-	String secondImage = "src/leonardo.jpeg";
-	String thirdImage = "src/morgan.jpeg";
+	String firstImage = "src/kimk,jpeg";
+	String secondImage = "src/GRAYSON.jpeg";
+	String thirdImage = "src/noah.jpeg";
 	String fourthImage = "src/jack.jpeg";
 	
 	JFrame window = new JFrame();
@@ -31,7 +31,7 @@ public class BodyPartQuiz {
 	private void startQuiz() {
 
 		// 1. Make an int variable to hold the score.
-
+int score= 0;
 		// 2. Set the size of the window in the initializeGui() method below
 			
 		// 4. Ask the user who this person is and store their answer
